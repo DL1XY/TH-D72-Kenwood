@@ -22,7 +22,7 @@ Get:
 |10|[Tone frequency](/tables/tone_ctcss.md)
 |11|[CTCSS frequency](/tables/tone_ctcss.md)
 |12|[DCS frequency](/tables/DCS.md)
-|13|[Cross encode/decode](/tables/cross.md)
+|13|[Cross tone encode/decode](/tables/cross.md)
 |14|Offset frequency in Hz 8 digit, must be within selected band
 |15|[Mode](/tables/mode.md)
 |16|TX frequency in Hz 10 digit, must be within selected band
