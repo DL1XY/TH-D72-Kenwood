@@ -7,6 +7,10 @@ Set:
 Get:
 
 	CC p1
+	
+Returns: CALL configuration
+
+`CC 0,0144000000,4,0,0,0,0,0,0,08,08,000,0,00600000,0,0000000000,0`
 
 |p|function|
 |---|---|
