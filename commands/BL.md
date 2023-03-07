@@ -1,6 +1,6 @@
 __Back light status__
 
-Set:
+Set **# TODO Seems to be useless, just get ? as response**:
 
 	BL p1
 
@@ -9,6 +9,8 @@ Get:
 	BL
 
 returns: p1
+
+`BL 2`
 
 |p1|function|
 |---|---|
