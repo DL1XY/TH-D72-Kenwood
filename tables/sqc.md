@@ -1,6 +1,7 @@
-||SQC Source|
-| --- | --- |
+### SQC Source
+
 | *Code* | *Function* |
+| --- | --- |
 |0|OFF
 |1|BUSY
 |2|SQL
