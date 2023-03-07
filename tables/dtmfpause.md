@@ -1,5 +1,6 @@
-||DTMF pause|
-|Code|Function|
+### DTMF pause
+
+|*Code*|*Function*|
 |---|---|
 |0|100
 |1|250
