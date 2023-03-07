@@ -7,16 +7,15 @@
 * Run `lsusb`, you should see `Silicon Labs CP210x UART Bridge` somewhere
 * Check if you find `/dev/ttyUSB0` or `/dev/ttyUSB1`, this should be your TH-D72
 * Start `putty` or any other terminal tool which can do serial communication.
-* Enter this values in the main window
+* Use this configuration:
   * Connection type: `Serial`
   * Serial line: `/dev/ttyUSB0`
   * Speed: `9600`
-* Open Connection/Serial in the Category view, most of the fields should be prefilled with the values already entered
   * Data bits: `8`
   * Stop bits: `1`
   * Parity: `None`
   * Flow control: `None`
-* Click `Open` to start the session
+* Start the session
 
 That"s all, now you can send the commands described here. If you type in `FO 1` and press Enter, you should see the VFO configuration of Band B like `FO 1,0430000000,7,0,0,0,0,0,0,08,08,000,0,01600000,0`.
 
