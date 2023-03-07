@@ -26,7 +26,7 @@ Returns: the configuration of VFO channel
 |9|[Cross tone]
 |10|[Tone frequency](/tables/tone_ctcss.md)
 |11|[CTCSS frequency](/tables/tone_ctcss.md)
-|12|[DCS frequency](/tables/DCS.md)
+|12|[DCS frequency](/tables/dcs.md)
 |13|[Cross tone encode/decode]
 |14|Offset frequency in Hz 8 digit
 |15|[Mode](/tables/mode.md)
