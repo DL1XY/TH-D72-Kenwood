@@ -1,5 +1,5 @@
-||Squelch hang|
-|Code|Function|
+### Squelch hang
+|*Code*|*Function*|
 |---|---|
 |0|OFF
 |1|125
