@@ -10,6 +10,9 @@ Read the VFO channel:
 	
 Returns: the configuration of VFO channel
 
+`FO 1,0430000000,7,0,0,0,0,0,0,08,08,000,0,01600000,0`
+
+
 |p|function|
 |---|---|
 |1|[Band](/tables/band.md)
