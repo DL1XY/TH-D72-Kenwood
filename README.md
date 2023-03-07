@@ -21,7 +21,7 @@
 That"s all, now you can send the commands described here. If you type in `FO 1` and press Enter, you should see the VFO configuration of Band B like `FO 1,0430000000,7,0,0,0,0,0,0,08,08,000,0,01600000,0`.
 
 #### Important
-* TH-D72 sends a questionmark `?` if it doesn"t know the command you sent
+* TH-D72 sends a questionmark `?` if it doesn't know the command you sent
 * There is **no** new line after sending/receiving a command
 
 ### How to connect TH-D72 in TNC mode 
@@ -42,6 +42,10 @@ MYCALL   was NOCALL
 cmd:
 ```
 * Now you are in TNC mode and you can execute the commands as described in the manual.
+
+#### Important
+* TH-D72 sends a questionmark followed by EH `?EH` in TNC mode if it doesn't know the command you sent
+* TH-D72 is ready for TNC commands if `cmd:` appears in terminal
 
 ## LA3QMA
 Reverse engineered commands based on my first discovery for the TM-D710.
