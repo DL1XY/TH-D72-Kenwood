@@ -6,7 +6,9 @@ Read the squelch status:
 	
 n: 0: band A, 1: band B
 
-Returns: x
+Returns: n,x
+
+`BY 1,0`
 
 |n|Band|
 |---|---|
