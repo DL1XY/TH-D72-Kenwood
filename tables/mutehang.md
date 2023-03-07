@@ -1,5 +1,5 @@
-||Mute hang
-|Code|Function|
+### Mute hang
+|*Code*|*Function*|
 |---|---|
 |0|OFF
 |1|125
