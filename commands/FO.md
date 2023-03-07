@@ -16,7 +16,7 @@ Returns: the configuration of VFO channel
 |p|function|
 |---|---|
 |1|[Band](/tables/band.md)
-|2|Frequency in Hz 10 digit. must be within selected band
+|2|Frequency in Hz 10 digit, must be within selected band
 |3|[Step size](/tables/step_size.md)
 |4|[Shift direction](/tables/shift.md)
 |5|[Reverse](/tables/status.md)
@@ -28,5 +28,5 @@ Returns: the configuration of VFO channel
 |11|[CTCSS frequency](/tables/tone_ctcss.md)
 |12|[DCS frequency](/tables/dcs.md)
 |13|[Cross tone encode/decode](/tables/cross.md)
-|14|Offset frequency in Hz 8 digit
+|14|Offset frequency in Hz 8 digit, must be within selected band
 |15|[Mode](/tables/mode.md)
