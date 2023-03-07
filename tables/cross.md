@@ -1,4 +1,4 @@
-### Cross
+### Cross tone
 
 |*p1*|*Frequency Hz*|
 |---|---|
