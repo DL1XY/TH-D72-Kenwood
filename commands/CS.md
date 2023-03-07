@@ -9,3 +9,5 @@ Read the callsign:
 	CS
 	
 Returns: the callsign
+
+`CS DL1XY`
