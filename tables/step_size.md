@@ -1,6 +1,7 @@
-||Step size|
-|---|---|	
+### Step size
+
 |*Code*|*Function*|
+|---|---|	
 |0|5 Khz
 |1|6.25 Khz
 |2|28,33 KHz
