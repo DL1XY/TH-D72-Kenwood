@@ -1,5 +1,5 @@
-||TOT|
-|Code|Function|
+### TOT
+|*Code*|*Function*|
 |---|---|
 |0|3 min
 |1|5 min
