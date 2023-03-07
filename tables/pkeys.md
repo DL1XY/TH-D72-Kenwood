@@ -1,4 +1,5 @@
 ### Programmable keys
+
 |*Code*|*Function*|*PF 1*|*PF 2*|*PF 1*|*PF 2*|*PF 3*|*PF 4*|
 |---|---|---|---|---|---|---|---|
 |0|WX|X|X|X|X|X|X
