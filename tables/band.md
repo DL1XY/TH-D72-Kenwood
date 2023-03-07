@@ -1,6 +1,7 @@
-||BAND|
-| --- | --- |
-| *Code* | *Function* |
+### Band
+
+|*Code*|*Function*|
+|---|---|
 |0|Band A
 |1|Band B
 |2|TX A - RX B
