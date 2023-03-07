@@ -4,5 +4,5 @@
 |---|---|
 |0|OFF
 |1|TONE/DCS
-|2|DCS/CTCS
-|3|Tone/CTCSS
+|2|DCS/CTCSS
+|3|TONE/CTCSS
