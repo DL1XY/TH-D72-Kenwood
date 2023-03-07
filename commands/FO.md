@@ -8,7 +8,7 @@ Read the VFO channel:
 
 	FO x
 	
-Returns: memory channel number (3 digit)
+Returns: the configuration of VFO channel
 
 |p|function|
 |---|---|
