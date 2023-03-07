@@ -5,4 +5,4 @@ Get the serialnumber:
 	AE
 	
 Returns: serialnumber, model
-
+`AE B1700221,271`
