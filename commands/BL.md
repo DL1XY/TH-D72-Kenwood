@@ -1,6 +1,6 @@
 __Back light status__
 
-Set **# TODO Seems to be useless, just get ? as response**:
+Set **NOT WORKING, just get ? as response**:
 
 	BL p1
 
