@@ -23,7 +23,7 @@ Returns: the configuration of VFO channel
 |6|[Tone status](/tables/status.md)
 |7|[CTCSS status](/tables/status.md)
 |8|[DCS status](/tables/status.md)
-|9|[Cross tone]
+|9|[Split tone/CTCSS/DCS status](/tables/status.md)
 |10|[Tone frequency](/tables/tone_ctcss.md)
 |11|[CTCSS frequency](/tables/tone_ctcss.md)
 |12|[DCS frequency](/tables/dcs.md)
