@@ -16,6 +16,6 @@ Returns: x
 |2|MM month
 |3|DD date
 |4|HH hour
-|5|MM minuttes
+|5|MM minutes
 |6|SS seconds
 
