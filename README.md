@@ -59,7 +59,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - AE	[Radio serialnumber](/commands/AE.md) :ok:
 - FV	[Firmware version](/commands/FV.md) :ok:
 - TY	[Radio Type](/commands/TY.md) :ok:
-- DL	[Dual Band Mode/Single Band Mode](/commands/DL.md)
+- DL	[Dual Band Mode/Single Band Mode](/commands/DL.md) :ok:
 - MR	[Memory channel](/commands/MR.md)
 - ME	[Memory channel, frequency, offset etc](/commands/ME.md)
 - FO	[VFO channel](/commands/FO.md) :ok:
