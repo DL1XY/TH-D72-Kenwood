@@ -12,6 +12,8 @@ n: 0: band A, 1: band B
 
 Returns: x
 
+`PC 0,0`
+
 |n|Band|
 |---|---|
 |0|Band A
