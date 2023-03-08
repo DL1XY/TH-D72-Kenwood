@@ -10,7 +10,9 @@ Read the squelch:
 	
 n: 0: band A, 1: band B
 
-Returns: x
+Returns: n,x
+
+`SQ 1,2`
 
 |n|Band|
 |---|---|
