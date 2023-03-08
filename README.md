@@ -68,7 +68,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - DW	[Emulates the Microphone Down Key](/commands/DW.md) :ok:
 - UP	[Emulates the Microphone Up Key](/commands/UP.md) :ok:
 - PC	[Output power](/commands/PC.md) :ok:
-- SQ	[Squelch status](/commands/SQ.md)
+- SQ	[Squelch status](/commands/SQ.md) :ok:
 - BY	[Squelch open/closed](/commands/BY.md) :ok:
 - RX	[Receive](/commands/RX.md) :ok:
 - TX	[Transmit](/commands/TX.md) :ok:
