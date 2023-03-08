@@ -73,7 +73,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - RX	[Receive](/commands/RX.md) :ok:
 - TX	[Transmit](/commands/TX.md) :ok:
 - BT	[Burst tone](/commands/BT.md) :ok:
-- RT	[Time](/commands/RT.md)
+- RT	[Time](/commands/RT.md) :ok:
 - GP	[Internal GPS](/commands/GP.md)
 - GM	[Radio/GPS](/commands/GM.md)
 - TN	[TNC status](/commands/TN.md)
