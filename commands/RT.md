@@ -10,6 +10,8 @@ Read the time:
 	
 Returns: x
 
+`RT 20230308173716`
+
 |p|function
 |---|---|
 |1|YYYY year
