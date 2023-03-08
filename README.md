@@ -70,8 +70,8 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - PC	[Output power](/commands/PC.md)
 - SQ	[Squelch status](/commands/SQ.md)
 - BY	[Squelch open/closed](/commands/BY.md) :ok:
-- RX	[Receive](/commands/RX.md)
-- TX	[Transmit](/commands/TX.md)
+- RX	[Receive](/commands/RX.md) :ok:
+- TX	[Transmit](/commands/TX.md) :ok:
 - BT	[Burst tone](/commands/BT.md) :ok:
 - RT	[Time](/commands/RT.md)
 - GP	[Internal GPS](/commands/GP.md)
