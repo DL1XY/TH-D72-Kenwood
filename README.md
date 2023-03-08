@@ -53,35 +53,35 @@ https://github.com/LA3QMA/TH-D72-Kenwood/wiki
 ### Please report any errors as this has been converted from my old documents.
 https://kenwood-radios.groups.io/g/main/messages and https://kenwood-radios.groups.io/g/TH-D72
 
-Available Control commands: (Firmware V1.10)
+Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY)
 
 - ID	[Radio Model](/commands/ID.md)
-- AE	[Radio serialnumber](/commands/AE.md)
+- AE	[Radio serialnumber](/commands/AE.md) :ok:
 - FV	[Firmware version](/commands/FV.md)
 - TY	[Radio Type](/commands/TY.md)
 - DL	[Dual Band Mode/Single Band Mode](/commands/DL.md)
 - MR	[Memory channel](/commands/MR.md)
 - ME	[Memory channel, frequency, offset etc](/commands/ME.md)
-- FO	[VFO channel](/commands/FO.md)
-- BC	[PTT and CTRL Band](/commands/BC.md)
+- FO	[VFO channel](/commands/FO.md) :ok:
+- BC	[PTT and CTRL Band](/commands/BC.md) :ok:
 - VM	[Memory/VFO](/commands/VM.md)
 - DW	[Emulates the Microphone Down Key](/commands/DW.md)
 - UP	[Emulates the Microphone Up Key](/commands/UP.md)
 - PC	[Output power](/commands/PC.md)
 - SQ	[Squelch status](/commands/SQ.md)
-- BY	[Squelch open/closed](/commands/BY.md)
+- BY	[Squelch open/closed](/commands/BY.md) :ok:
 - RX	[Receive](/commands/RX.md)
 - TX	[Transmit](/commands/TX.md)
-- BT	[Burst tone](/commands/BT.md)
+- BT	[Burst tone](/commands/BT.md) :ok:
 - RT	[Time](/commands/RT.md)
 - GP	[Internal GPS](/commands/GP.md)
 - GM	[Radio/GPS](/commands/GM.md)
 - TN	[TNC status](/commands/TN.md)
 - ~~AS	[Reverse](/commands/AS.md)~~ - removed in Firmware V1.08
-- CS	[Callsign](/commands/CS.md)
+- CS	[Callsign](/commands/CS.md) :ok:
 - MS	[Power on text](/commands/MS.md)
 - SR	[Reset](/commands/SR.md)
-- CC	[CALL channel](/commands/CC.md)
+- CC	[CALL channel](/commands/CC.md) :ok:
 - LK	[Key Lock](/commands/LK.md)
 - PV	[Programmable VFO](/commands/PV.md)
 - MN	[Memory name](/commands/MN.md)
@@ -89,10 +89,10 @@ Available Control commands: (Firmware V1.10)
 - TT	[Transmit tone](/commands/TT.md)
 - ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
 - DM	[DTMF memory](/commands/DM.md)
-- SS	[*S-meter squelch*](/commands/SS.md) - have to check parameters
+- SS	[*S-meter squelch*](/commands/SS.md)- have to check parameters
 - DT	[DTMF](/commands/DT.md)
-- BA	[Battery type](/commands/BA.md)
-- BL    [Backlight](/commands/BL.md)
+- BA	[Battery type](/commands/BA.md) :ok:
+- BL [Backlight](/commands/BL.md) :arrow-right: **check setter again**
 - MU	[Menu](/commands/MU.md)
 - TC	[TNC controll mode](/commands/TC.md)
 - TS	[TNC controll mode 2](/commands/TS.md)
