@@ -5,3 +5,5 @@ Get radio model:
 	ID
 
 Returns: radio ID
+
+`ID TH-D72`
