@@ -11,13 +11,3 @@ Read the time:
 Returns: x
 
 `RT 20230308173716`
-
-|p|function
-|---|---|
-|1|YYYY year
-|2|MM month
-|3|DD date
-|4|HH hour
-|5|MM minutes
-|6|SS seconds
-
