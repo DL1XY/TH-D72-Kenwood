@@ -14,6 +14,8 @@ Read:
 	
 Returns: x
 
+`DL 1`
+
 [Band](/tables/band.md)
 
 |code|function|
