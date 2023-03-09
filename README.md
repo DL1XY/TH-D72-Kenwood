@@ -84,7 +84,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - CC	[CALL channel](/commands/CC.md) :ok:
 - LK	[Key Lock](/commands/LK.md)
 - PV	[Programmable VFO](/commands/PV.md)
-- MN	[Memory name](/commands/MN.md)
+- MN	[Memory name](/commands/MN.md) :ok:
 - MS	[Power on message](/commands/MS.md) :ok:
 - TT	[Transmit tone](/commands/TT.md) :ok:
 - ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
