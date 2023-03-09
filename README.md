@@ -86,7 +86,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - PV	[Programmable VFO](/commands/PV.md)
 - MN	[Memory name](/commands/MN.md)
 - MS	[Power on message](/commands/MS.md) :ok:
-- TT	[Transmit tone](/commands/TT.md)
+- TT	[Transmit tone](/commands/TT.md) :ok:
 - ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
 - DM	[DTMF memory](/commands/DM.md)
 - SS	[*S-meter squelch*](/commands/SS.md)- have to check parameters
