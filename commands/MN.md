@@ -8,7 +8,7 @@ Get:
 
 	MN p1
 
-returns: p1,p2
+returns: p1,p2  N if channel not used
 
 |p1|function|
 |---|---|
