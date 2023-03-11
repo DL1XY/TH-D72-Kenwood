@@ -1,8 +1,10 @@
-__Set/Read the TNC mode__
+## Set the TNC mode
 
 Set TNC:
 
 	TN p1,p2
+
+`TN 0,0`
 
 |p1|function
 |---|---|
