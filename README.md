@@ -83,7 +83,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - SR	[Reset](/commands/SR.md) :ok:
 - CC	[CALL channel](/commands/CC.md) :ok:
 - LK	[Key Lock](/commands/LK.md) :ok:
-- PV	[Programmable VFO](/commands/PV.md)
+- PV	[Programmable VFO](/commands/PV.md) :ok:
 - MN	[Memory name](/commands/MN.md) :ok:
 - MS	[Power on message](/commands/MS.md) :ok:
 - TT	[Transmit tone](/commands/TT.md) :ok:
