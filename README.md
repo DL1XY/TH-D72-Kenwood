@@ -60,7 +60,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - FV	[Firmware version](/commands/FV.md) :ok:
 - TY	[Radio Type](/commands/TY.md) :ok:
 - DL	[Dual Band Mode/Single Band Mode](/commands/DL.md) :ok:
-- MR	[Memory channel](/commands/MR.md)
+- MR	[Memory channel](/commands/MR.md) :ok:
 - ME	[Memory channel, frequency, offset etc](/commands/ME.md)
 - FO	[VFO channel](/commands/FO.md) :ok:
 - BC	[PTT and CTRL Band](/commands/BC.md) :ok:
