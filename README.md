@@ -79,7 +79,6 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - TN	[TNC status](/commands/TN.md) :ok:
 - ~~AS	[Reverse](/commands/AS.md)~~ - removed in Firmware V1.08
 - CS	[Callsign](/commands/CS.md) :ok:
-- MS	[Power on text](/commands/MS.md)
 - SR	[Reset](/commands/SR.md) :ok:
 - CC	[CALL channel](/commands/CC.md) :ok:
 - LK	[Key Lock](/commands/LK.md) :ok:
