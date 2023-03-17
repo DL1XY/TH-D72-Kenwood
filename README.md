@@ -87,7 +87,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - MS	[Power on message](/commands/MS.md) :ok:
 - TT	[Transmit tone](/commands/TT.md) :ok:
 - ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
-- DM	[DTMF memory](/commands/DM.md)
+- DM	[DTMF memory](/commands/DM.md) :ok:
 - SS	[*S-meter squelch*](/commands/SS.md)- have to check parameters
 - DT	[DTMF](/commands/DT.md) :ok:
 - BA	[Battery type](/commands/BA.md) :ok:
