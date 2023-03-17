@@ -8,7 +8,10 @@ Get:
 
 	DM p1
 
-returns: p1,p2
+returns: p1,p2 
+
+`DM 1,0123456789ABCDEF`
+
 
 |p1|function
 |---|---|
