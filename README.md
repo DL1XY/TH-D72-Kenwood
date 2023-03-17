@@ -88,12 +88,12 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - TT	[Transmit tone](/commands/TT.md) :ok:
 - ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
 - DM	[DTMF memory](/commands/DM.md) :ok:
-- ~~SS	[*S-meter squelch*] (/commands/SS.md)~~- only ? as response
+- ~~SS	[*S-meter squelch*](/commands/SS.md)~~- only ? as response
 - DT	[DTMF](/commands/DT.md) :ok:
 - BA	[Battery type](/commands/BA.md) :ok:
 - BL [Backlight](/commands/BL.md) :arrow_forward: **check setter again**
 - MU	[Menu](/commands/MU.md)
 - TC	[TNC controll mode](/commands/TC.md)
-- TS	[TNC controll mode 2](/commands/TS.md)
+- TS	~~[TNC controll mode 2](/commands/TS.md)~~ only ? as response
 - PROGRAM		[0M PROGRAM : Enters MCP programming mode](/commands/0M_PROGRAM.md) (Command is: ZERO MIKE space PROGRAM)
 - SERVICE	[0G KENWOOD : Enters service mode](/commands/0G_KENWOOD.md) (Command is: ZERO GOLF space KENWOOD)
