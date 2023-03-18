@@ -92,7 +92,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - DT	[DTMF](/commands/DT.md) :ok:
 - BA	[Battery type](/commands/BA.md) :ok:
 - BL [Backlight](/commands/BL.md) :arrow_forward: **check setter again**
-- MU	[Menu](/commands/MU.md)
+- MU	[Menu](/commands/MU.md) :ok:
 - TC	[TNC controll mode](/commands/TC.md) :arrow_forward: **check setter again, strange behaviour**
 - TS	~~[TNC controll mode 2](/commands/TS.md)~~ only ? as response but RCVD when TC or TC 0
 - PROGRAM		[0M PROGRAM : Enters MCP programming mode](/commands/0M_PROGRAM.md) (Command is: ZERO MIKE space PROGRAM)
