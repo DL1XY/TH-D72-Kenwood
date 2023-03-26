@@ -72,7 +72,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - BY	[Squelch open/closed](/commands/BY.md) :ok:
 - RX	[Receive](/commands/RX.md) :ok:
 - TX	[Transmit](/commands/TX.md) :ok:
-- BT	[Burst tone](/commands/BT.md) :ok:
+- BT	[Burst tone](/commands/BT.md) :ok: :ok:
 - RT	[Time](/commands/RT.md) :ok:
 - GP	[Internal GPS](/commands/GP.md) :ok:
 - GM	[Radio/GPS](/commands/GM.md) :ok:
