@@ -56,14 +56,14 @@ https://kenwood-radios.groups.io/g/main/messages and https://kenwood-radios.grou
 Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY)
 
 - ID	[Radio Model](/commands/ID.md) :ok:
-- AE	[Radio serialnumber](/commands/AE.md) :ok:
+- AE	[Radio serialnumber](/commands/AE.md) :ok: :ok: 
 - FV	[Firmware version](/commands/FV.md) :ok:
 - TY	[Radio Type](/commands/TY.md) :ok:
 - DL	[Dual Band Mode/Single Band Mode](/commands/DL.md) :ok:
 - MR	[Memory channel](/commands/MR.md) :ok:
 - ME	[Memory channel, frequency, offset etc](/commands/ME.md) :ok:
 - FO	[VFO channel](/commands/FO.md) :ok:
-- BC	[PTT and CTRL Band](/commands/BC.md) :ok:
+- BC	[PTT and CTRL Band](/commands/BC.md) :ok: :ok:
 - VM	[Memory/VFO](/commands/VM.md) :ok:
 - DW	[Emulates the Microphone Down Key](/commands/DW.md) :ok:
 - UP	[Emulates the Microphone Up Key](/commands/UP.md) :ok:
@@ -90,7 +90,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - DM	[DTMF memory](/commands/DM.md) :ok:
 - ~~SS	[*S-meter squelch*](/commands/SS.md)~~- only ? as response
 - DT	[DTMF](/commands/DT.md) :ok:
-- BA	[Battery type](/commands/BA.md) :ok:
+- BA	[Battery type](/commands/BA.md) :ok: :ok:
 - BL [Backlight](/commands/BL.md) :arrow_forward: **check setter again**
 - MU	[Menu](/commands/MU.md) :ok:
 - TC	[TNC controll mode](/commands/TC.md) :arrow_forward: **check setter again, strange behaviour**
