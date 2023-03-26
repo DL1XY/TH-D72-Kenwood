@@ -91,7 +91,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - ~~SS	[*S-meter squelch*](/commands/SS.md)~~- only ? as response
 - DT	[DTMF](/commands/DT.md) :ok:
 - BA	[Battery type](/commands/BA.md) :ok: :ok:
-- BL [Backlight](/commands/BL.md) :arrow_forward: **check setter again**
+- BL [Backlight](/commands/BL.md) :ok: :ok: :arrow_forward: **check setter again** 
 - MU	[Menu](/commands/MU.md) :ok:
 - TC	[TNC controll mode](/commands/TC.md) :arrow_forward: **check setter again, strange behaviour**
 - TS	~~[TNC controll mode 2](/commands/TS.md)~~ only ? as response but RCVD when TC or TC 0
