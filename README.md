@@ -53,7 +53,7 @@ https://github.com/LA3QMA/TH-D72-Kenwood/wiki
 ### Please report any errors as this has been converted from my old documents.
 https://kenwood-radios.groups.io/g/main/messages and https://kenwood-radios.groups.io/g/TH-D72
 
-Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY)
+Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY, #1 OK: Command implemented, #2 OK: Unittest implemented)
 
 - ID	[Radio Model](/commands/ID.md) :ok:
 - AE	[Radio serialnumber](/commands/AE.md) :ok: :ok: 
