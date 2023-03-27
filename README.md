@@ -80,7 +80,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - ~~AS	[Reverse](/commands/AS.md)~~ - removed in Firmware V1.08
 - CS	[Callsign](/commands/CS.md) :ok:
 - SR	[Reset](/commands/SR.md) :ok:
-- CC	[CALL channel](/commands/CC.md) :ok:
+- CC	[CALL channel](/commands/CC.md) :ok: :ok:
 - LK	[Key Lock](/commands/LK.md) :ok:
 - PV	[Programmable VFO](/commands/PV.md) :ok:
 - MN	[Memory name](/commands/MN.md) :ok:
