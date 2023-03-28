@@ -1,6 +1,6 @@
 __Set/Read the callsign__
 
-Set callsign (max 8 characters:
+Set callsign (max 6 alphanumeric) characters:
 
 	CS callsign
 
