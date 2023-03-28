@@ -78,7 +78,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - GM	[Radio/GPS](/commands/GM.md) :ok:
 - TN	[TNC status](/commands/TN.md) :ok:
 - ~~AS	[Reverse](/commands/AS.md)~~ - removed in Firmware V1.08
-- CS	[Callsign](/commands/CS.md) :ok:
+- CS	[Callsign](/commands/CS.md) :ok: :ok:
 - SR	[Reset](/commands/SR.md) :ok:
 - CC	[CALL channel](/commands/CC.md) :ok: :ok:
 - LK	[Key Lock](/commands/LK.md) :ok:
