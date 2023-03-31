@@ -89,7 +89,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
 - DM	[DTMF memory](/commands/DM.md) :ok: :ok:
 - ~~SS	[*S-meter squelch*](/commands/SS.md)~~- only ? as response
-- DT	[DTMF](/commands/DT.md) :ok:
+- DT	[DTMF](/commands/DT.md) :ok: :ok:
 - BA	[Battery type](/commands/BA.md) :ok: :ok:
 - BL [Backlight](/commands/BL.md) :ok: :ok: :arrow_forward: **check setter again** 
 - MU	[Menu](/commands/MU.md) :ok:
