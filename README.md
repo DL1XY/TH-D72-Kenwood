@@ -55,7 +55,7 @@ https://kenwood-radios.groups.io/g/main/messages and https://kenwood-radios.grou
 
 Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY, #1 OK: Command implemented, #2 OK: Unittest implemented)
 
-- ID	[Radio Model](/commands/ID.md) :ok:
+- ID	[Radio Model](/commands/ID.md) :ok: :ok:
 - AE	[Radio serialnumber](/commands/AE.md) :ok: :ok: 
 - FV	[Firmware version](/commands/FV.md) :ok: :ok:
 - TY	[Radio Type](/commands/TY.md) :ok:
