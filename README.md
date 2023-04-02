@@ -81,7 +81,7 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - CS	[Callsign](/commands/CS.md) :ok: :ok:
 - SR	[Reset](/commands/SR.md) :ok:
 - CC	[CALL channel](/commands/CC.md) :ok: :ok:
-- LK	[Key Lock](/commands/LK.md) :ok:
+- LK	[Key Lock](/commands/LK.md) :ok: :ok:
 - PV	[Programmable VFO](/commands/PV.md) :ok:
 - MN	[Memory name](/commands/MN.md) :ok:
 - MS	[Power on message](/commands/MS.md) :ok:
