@@ -58,20 +58,20 @@ Available Control commands: (Firmware V1.10) (incl implementation marks by DL1XY
 - ID	[Radio Model](/commands/ID.md) :ok: :ok:
 - AE	[Radio serialnumber](/commands/AE.md) :ok: :ok: 
 - FV	[Firmware version](/commands/FV.md) :ok: :ok:
-- TY	[Radio Type](/commands/TY.md) :ok:
+- TY	[Radio Type](/commands/TY.md) :ok: :ok:
 - DL	[Dual Band Mode/Single Band Mode](/commands/DL.md) :ok: :ok:
 - MR	[Memory channel](/commands/MR.md) :ok: :ok:
 - ME	[Memory channel, frequency, offset etc](/commands/ME.md) :ok: :ok:
 - FO	[VFO channel](/commands/FO.md) :ok: :ok:
 - BC	[PTT and CTRL Band](/commands/BC.md) :ok: :ok:
-- VM	[Memory/VFO](/commands/VM.md) :ok:
+- VM	[Memory/VFO](/commands/VM.md) :ok: :ok:
 - DW	[Emulates the Microphone Down Key](/commands/DW.md) :ok: :ok:
 - UP	[Emulates the Microphone Up Key](/commands/UP.md) :ok:
 - PC	[Output power](/commands/PC.md) :ok: :ok:
 - SQ	[Squelch status](/commands/SQ.md) :ok: :ok:
 - BY	[Squelch open/closed](/commands/BY.md) :ok: :ok:
 - RX	[Receive](/commands/RX.md) :ok: :ok:
-- TX	[Transmit](/commands/TX.md) :ok:
+- TX	[Transmit](/commands/TX.md) :ok: :ok:
 - BT	[Burst tone](/commands/BT.md) :ok: :ok:
 - RT	[Time](/commands/RT.md) :ok: :ok:
 - GP	[Internal GPS](/commands/GP.md) :ok: :ok:
